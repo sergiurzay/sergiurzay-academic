@@ -1,50 +1,43 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Sergi Urzay-Gómez
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Sergi
+last_name: Urzay-Gómez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universitat de Girona
+    url: https://www.udg.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Political Economy and Applied Microeconomics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Political Economy
+  - Applied Microeconomics
+  - European Union
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: Universitat de Girona
+      year: Feb 2024 (Expected)
+    - course: MSc in Political Analysis
+      institution: Universitat Oberta de Catalunya
+      year: 2018
+    - course: BSc in Economics
+      institution: Universitat de Girona
+      year: 2016
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -93,10 +86,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:sergi.urzay@udg.edu"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/sergiurzay
     label: Follow me on Twitter
     display:
       header: true
@@ -105,10 +98,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/sergiurzay
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +110,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a PhD student in Political Economy and Applied Microeconomics, my research pierces the veil of European integration to reveal its profound impact on individual preferences. Teaching at the Universitat de Girona, the Universitat Oberta de Catalunya, I am also a Teaching Assistant at the Institut Barcelona d'Estudis Internacionals (IBEI - UPF).
 {style="text-align: justify;"}

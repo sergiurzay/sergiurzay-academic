@@ -248,7 +248,7 @@ sections:
         country_code: ES
       directions: Enter Building and take the stairs to Office 342 on Floor 3
       office_hours:
-        - 'Monday 10:00 to 13:00'
+        - 'Monday 10:00 to 14:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '41.961861767733076'

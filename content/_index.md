@@ -48,7 +48,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Use this form, or the information below, to contact me.
       # Contact (add or remove contact options as necessary)
       email: sergi.urzay@udg.edu
       appointment_url: Appointment by email

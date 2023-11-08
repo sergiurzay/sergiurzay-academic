@@ -15,7 +15,7 @@ role: PhD student in Economics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Universitat de Girona
-    url: https://www.udg.edu/
+    url: https://www.udg.edu/ca/directori/pagina-personal?ID=131358
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Political Economy and Applied Microeconomics.

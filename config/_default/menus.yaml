@@ -14,7 +14,7 @@ main:
     url: /research/
     weight: 30
   - name: CV
-    url: uploads/cv.pdf
+    url: uploads/CV_UrzayGomez.pdf
     weight: 40
   - name: Contact
     url: '#contact'

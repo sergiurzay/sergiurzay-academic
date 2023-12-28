@@ -95,7 +95,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.udg.edu/ca/directori/pagina-personal?ID=131358
   - icon: github
     icon_pack: fab
     link: https://github.com/sergiurzay
@@ -110,5 +110,5 @@ social:
 highlight_name: true
 ---
 
-As a PhD student in Political Economy and Applied Microeconomics, my research pierces the veil of European integration to reveal its profound impact on individual preferences. Teaching at the Universitat de Girona, the Universitat Oberta de Catalunya, I am also a Teaching Assistant at the Institut Barcelona d'Estudis Internacionals (IBEI-UPF).
+As a PhD student in Political Economy and Applied Microeconomics, my research lie in the are of Political Economy and Applied Microeconomics. More precisely, in the veil of European integration to reveal its profound impact on individual preferences. Teaching at the Universitat de Girona, the Universitat Oberta de Catalunya, I am also a Teaching Assistant at the Institut Barcelona d'Estudis Internacionals (IBEI-UPF).
 {style="text-align: justify;"}

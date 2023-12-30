@@ -4,8 +4,6 @@ date: 2023-11-06
 type: "widget_page"
 ---
 
-## Work in Progress
-
 1. **Urzay-Gómez, S. (2023a). "The Age of Euro-scepticism? Financial Crisis in PIGS countries and its Impact on Generational Views"**  
    *Mimeo UdG*  
    **Abstract:** This paper explores the impact of the financial crisis on the generational views towards European integration in the PIGS countries. Utilizing quantitative data, the study reveals a growing trend of Euro-scepticism among younger populations.

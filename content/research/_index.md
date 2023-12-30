@@ -17,5 +17,5 @@ type: "widget_page"
    **Abstract:** This collaborative study investigates how personal and political preferences are formed regarding the European Union. The findings suggest a complex interplay between national identity and perceived economic benefits.
 
 4. **Urzay-Gómez, S. (2023c). "Integration Effects on Salaries: The Case of Germany"**  
-   *Mimeo UdG*  
+   *Mimeo UdG*. *Work in progress*.  
    **Abstract:** Focusing on Germany, this paper examines the influence of EU integration on salary structures. The analysis points to significant disparities, highlighting the nuanced effects of integration on different economic sectors.

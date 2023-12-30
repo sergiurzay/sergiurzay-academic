@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Universitat de Girona
-      year: Feb 2024 (Expected)
+      year: Mar 2024 (Expected)
     - course: MSc in Political Analysis
       institution: Universitat Oberta de Catalunya
       year: 2018

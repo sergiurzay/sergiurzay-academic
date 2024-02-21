@@ -12,7 +12,7 @@ type: "widget_page"
    *Mimeo UdG*. Revise and Resubmit.  
    **Abstract:** By applying a synthetic control method, this research analyzes the evolution of wage patterns in West Berlin post-reunification, offering insights into the economic consequences of the fall of the Berlin Wall.
 
-3. **Maurerer, I.; Puy, S.; Urzay-Gómez, S. (2023). "Preferences Formation on European Integration"**  
+3. **Maurerer, I.; Puy, S.; Urzay-Gómez, S. (2023). "Explaining Preferences for EU Integration: Theory and Empirical Evidence"**  
    *Mimeo UdG*. Submited.
    **Abstract:** This collaborative study investigates how personal and political preferences are formed regarding the European Union. The findings suggest a complex interplay between national identity and perceived economic benefits.
 

@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-As a PhD student in Economics, my research lies in the area of Political Economy and Applied Microeconomics. More precisely, in the veil of European integration to reveal its profound impact on individual preferences. Teaching at the Universitat de Girona, the Universitat Oberta de Catalunya, I am also a Teaching Assistant at the Institut Barcelona d'Estudis Internacionals (IBEI-UPF).
+As a PhD candidate in Economics, my research lies in the area of Political Economy and Applied Microeconomics. More precisely, in the veil of European integration to reveal its profound impact on individual preferences. Teaching at the Universitat de Girona, the Universitat Oberta de Catalunya, I am also a Teaching Assistant at the Institut Barcelona d'Estudis Internacionals (IBEI-UPF).
 {style="text-align: justify;"}

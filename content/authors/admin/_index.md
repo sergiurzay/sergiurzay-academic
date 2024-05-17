@@ -10,7 +10,7 @@ last_name: Urzay-Gómez
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Economics
+role: PhD candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,20 +18,21 @@ organizations:
     url: https://www.udg.edu/ca/directori/pagina-personal?ID=131358
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Political Economy and Applied Microeconomics.
+bio: My research interests include Political Economy, Applied Microeconomics, European Integration, and Regional Studies.
 
 # Interests to show in About widget
 interests:
   - Political Economy
   - Applied Microeconomics
   - European Union
+  - Regional Studies
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Economics
       institution: Universitat de Girona
-      year: Jun-Jul 2024 (Expected)
+      year: Jul 2024
     - course: MSc in Political Analysis
       institution: Universitat Oberta de Catalunya
       year: 2018

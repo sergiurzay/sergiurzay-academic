@@ -16,11 +16,11 @@ type: "widget_page" # This type will allow you to add widgets to the page
 *Sept 2017 - Nowadays*
 
 - **Intermediate Microeconomics**: 2020-21; 2021-22; 2022-23; 2023-24.
-- **Spanish and Global Economies**: 2020-21; 2021-22; 2022-23; 2023-24.
+- **Spanish and World Economy**: 2020-21; 2021-22; 2022-23; 2023-24.
 - **Introduction to Economics**: 2017-18; 2020-21; 2023-24.
 - **Applied Economic Tools**: 2020-21.
 
 ### Teaching Assistant, Master level, IBEI - UPF
-*Sept 2023 - Nowadays*
+*Sept 2023 - Feb 2024*
 
 - **Growth Models and Development Strategies**: 2023-24.

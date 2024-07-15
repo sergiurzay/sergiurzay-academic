@@ -10,7 +10,7 @@ last_name: Urzay-Gómez
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Economics
+role: PhD in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -5,11 +5,11 @@ type: "widget_page"
 ---
 
 1. **Urzay-Gómez, S. (2023). "Wage patterns in West Berlin: A Synthetic Control approach after the fall of the Wall"**  
-   *Mimeo UdG*. Revise and Resubmit.  
-   **Abstract:** We investigate the effects of the fall of the Berlin Wall on the salaries of West Berliners, employing the Synthetic Control Method and using data from the German Socio-Economic Panel (SOEP) and the Bundesagentur für Arbeit (BfA). Our study reveals that the collapse of the Berlin Wall resulted in a more pronounced increase in salaries for West Berliners compared to a scenario where the Wall had not been dismantled.
+   *Forthcoming in Applied Economics Letters*.  
+   **Abstract:** We investigate the impact of the Berlin Wall's fall on West Berliners' salaries using the Synthetic Control Method and regional-level data (NUTS-2) from the German Socio-Economic Panel (SOEP). Our study shows that the collapse of the Berlin Wall led to a sudden stagnation in salaries for West Berliners, compared to a scenario where the Wall had remained intact.
 
 2. **Maurerer, I.; Puy, M; Urzay-Gómez, S. (2024). "Explaining Preferences for EU Integration: Theory and Empirical Evidence"**  
-   *Available at SSRN: https://ssrn.com/abstract=4812690.*. Submited.
+   *Available at SSRN: https://ssrn.com/abstract=4812690.*. **R&R in European Economic Review**.
    **Abstract:** We present a theoretical framework that explains how European citizens form their preferences on EU integration, which is a crucial aspect to understand the public support for the EU advancement. Building on the theories of nation formation, we consider three distinct ideological cost functions measuring the impact of EU legislation on national politics. These cost functions are categorized by degrees of sophistication, ranging from low to high. Low sophistication assumes that the EU defines an ideological direction (left or right) for member states. High sophistication assumes that EU legislation is combined with national legislation and directly impacts national policies. Individual-level survey data from EU member states are analyzed to test which degree of sophistication best predicts integration preferences. The empirical results show that European citizens tend to be highly sophisticated, implying that the advancement of EU integration is supported by citizens who believe the EU legislation amends their national policy; by contrast, Euroscepticism emerges among citizens who believe that the EU interferes with national policy.
 
 3. **Urzay-Gómez, S. (2024a). "PIGS in Crisis: Euro Preference, Age, and Education"**  

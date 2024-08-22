@@ -13,7 +13,7 @@ type: "widget_page" # This type will allow you to add widgets to the page
 - **Economic areas: Asia and Latin America**: 2021-22; 2022-23; 2023-24.
 
 ### Part-Time Teaching, Bachelor level, Universitat de Girona
-*Sept 2017 - Nowadays*
+*Sept 2017 - Sept 2024*
 
 - **Intermediate Microeconomics**: 2020-21; 2021-22; 2022-23; 2023-24.
 - **Spanish and World Economy**: 2020-21; 2021-22; 2022-23; 2023-24.

@@ -6,6 +6,12 @@ type: "widget_page" # This type will allow you to add widgets to the page
 
 ## Teaching Experience
 
+### Lecturer, Bachelor level, Universitat Internacional de Catalunya
+*Sept 2024 - Nowadays*
+
+- **Macroeconomics I**: 2024-25.
+- **Macroeconomics II**: 2024-25.
+
 ### Part-Time Teaching, Master level, Universitat Oberta de Catalunya
 *Sept 2021 - Nowadays*
 

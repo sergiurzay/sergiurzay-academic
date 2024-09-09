@@ -14,8 +14,8 @@ role: PhD in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universitat de Girona
-    url: https://www.udg.edu/ca/directori/pagina-personal?ID=131358
+  - name: Universitat Internacional de Catalunya
+    url: https://www.uic.es/en/teacher/sourzay
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Political Economy, Applied Microeconomics, European Integration, and Regional Studies.
@@ -87,7 +87,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:sergi.urzay@udg.edu"
+    link: "mailto:sourzay@uic.es"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sergiurzay
@@ -96,7 +96,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://www.udg.edu/ca/directori/pagina-personal?ID=131358
+    link: https://www.uic.es/en/teacher/sourzay
   - icon: github
     icon_pack: fab
     link: https://github.com/sergiurzay
@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-I hold a PhD in Economics, and my research lies in the area of Political Economy and Applied Microeconomics. More precisely, in the veil of European integration to reveal its profound impact on individual preferences. Teaching at the Universitat de Girona, the Universitat Oberta de Catalunya, I am also a Teaching Assistant at the Institut Barcelona d'Estudis Internacionals (IBEI-UPF).
+Welcome! I'm Sergi Urzay-Gómez, a Lecturer at the Faculty of Economic and Social Sciences at the Universitat Internacional de Catalunya. I earned my PhD in Economics from the Universitat de Girona in 2024, and my research focuses on Political Economy and Applied Economics, with a special interest in uncovering the profound effects of European integration on individual preferences. In addition to my role here, I also teach at the Universitat Oberta de Catalunya and serve as a Teaching Assistant at the Institut Barcelona d'Estudis Internacionals (IBEI-UPF).
 {style="text-align: justify;"}

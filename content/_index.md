@@ -50,22 +50,22 @@ sections:
       text: |-
         Use this form, or the information below, to contact me.
       # Contact (add or remove contact options as necessary)
-      email: sergi.urzay@udg.edu
+      email: sourzay@uic.es
       appointment_url: Appointment by email
       address:
-        street: Carrer de la Universitat de Girona, 10
-        city: Girona
+        street: Carrer de la Immaculada, 2
+        city: Barcelona
         region: Catalunya
-        postcode: '17003'
+        postcode: '08017'
         country: Spain
         country_code: ES
-      directions: Enter Building and take the stairs to Office 342 on Floor 3
+      directions: Enter the building and head downstairs to the Faculty of Economic and Social Sciences.
       office_hours:
-        - 'Monday 10:00 to 14:00'
+        - 'By appointment'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '41.961861767733076'
-        longitude: '2.831040895254275'  
+        latitude: '41.405694'
+        longitude: '2.123530'  
       contact_links:
         - icon: twitter
           icon_pack: fab

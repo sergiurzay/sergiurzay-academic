@@ -27,6 +27,7 @@ type: "widget_page" # This type will allow you to add widgets to the page
 - **Applied Economic Tools**: 2020-21.
 
 ### Teaching Assistant, Master level, IBEI - UPF
-*Sept 2023 - Feb 2024*
+*Sept 2023 - Feb 2025*
 
-- **Growth Models and Development Strategies**: 2023-24.
+- **Growth Models and Development Strategies**: 2023-24; 2024-25.
+- **Governance, National and Global Institutions**: 2024-2025.

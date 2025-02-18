@@ -20,7 +20,7 @@ type: "widget_page"
    *Submitted*. *Available at SSRN: https://ssrn.com/abstract=5120572*.
    **Abstract:** This study examines the relationship between firms’ market power, captured by product markups and labor markdowns, and the labor share within European Union firms. Using firm-level data from the CompNet database, we develop a micro-econometric framework linking the labor share to firms’ market power. Empirical results show that labor markdowns reduce the labor share, while product markups have a hump-shaped impact on it. This occurs because firms with high pricing power tend to exercise increasing monopsony power over their workers, thereby reducing labor costs. The analysis also reveals significant cross-country heterogeneity in the link between markups, markdowns, and labor share.
 
-**WORK-IN-PROGRESS**
+**CURRENT RESEARCH**
 
 1. **Urzay-Gómez, S. (2024a). "PIGS in Crisis: Euro Preference, Age, and Education"**  
    *Mimeo UdG*.

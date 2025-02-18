@@ -32,13 +32,13 @@ education:
   courses:
     - course: PhD in Economics
       institution: Universitat de Girona
-      year: 2024
+      year: Jul 2024
     - course: MSc in Political Analysis
       institution: Universitat Oberta de Catalunya
-      year: 2018
+      year: Feb 2018
     - course: BSc in Economics
       institution: Universitat de Girona
-      year: 2016
+      year: Jun 2016
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

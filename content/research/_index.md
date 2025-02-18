@@ -20,10 +20,12 @@ type: "widget_page"
    *Submitted*. *Available at SSRN: https://ssrn.com/abstract=5120572*.
    **Abstract:** This study examines the relationship between firms’ market power, captured by product markups and labor markdowns, and the labor share within European Union firms. Using firm-level data from the CompNet database, we develop a micro-econometric framework linking the labor share to firms’ market power. Empirical results show that labor markdowns reduce the labor share, while product markups have a hump-shaped impact on it. This occurs because firms with high pricing power tend to exercise increasing monopsony power over their workers, thereby reducing labor costs. The analysis also reveals significant cross-country heterogeneity in the link between markups, markdowns, and labor share.
 
-3. **Urzay-Gómez, S. (2024a). "PIGS in Crisis: Euro Preference, Age, and Education"**  
+**WORK-IN-PROGRESS**
+
+1. **Urzay-Gómez, S. (2024a). "PIGS in Crisis: Euro Preference, Age, and Education"**  
    *Mimeo UdG*.
    **Abstract:** This study analyses how the financial crisis has affected the preference for the euro in the PIGS countries. Using biannual Eurobarometer survey data from 1999 to 2019 and a two-level random intercept logistic model, the results show that during the crisis, support for the euro declined throughout the area. In particular, on the one hand those who are less educated showed a significant decreasing preference towards the euro, whereas on the other hand younger cohorts exhibit a stronger preference for the euro, contrasting with older generations.
 
-4. **Urzay-Gómez, S. (2024b). "Wages at the Edge: Analysing EU 2004 Enlargement in Germany's Border"**  
+2. **Urzay-Gómez, S. (2024b). "Wages at the Edge: Analysing EU 2004 Enlargement in Germany's Border"**  
    *Mimeo UdG*.  
    **Abstract:** This study examines how the 2004 enlargement of the European Union has affected salaries in German border regions, using individual-level data from the Socio-Economic Panel (SOEP). Applying a Difference-in-Differences approach, we examine the financial effects on citizens residing close to Poland and the Czech Republic. According to our research, salaries have decreased after expansion, underscoring the complex difficulties associated with economic integration. Additionally, the analysis revealed a more pronounced adverse effect in the districts of former East Germany. This study contributes a fresh viewpoint to the body of literature on EU enlargement by concentrating on detailed NUTS-3 level data and providing insights into the regionalised economic impacts of border expansion inside the Union.

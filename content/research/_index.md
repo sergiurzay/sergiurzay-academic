@@ -22,10 +22,14 @@ type: "widget_page"
 
 **CURRENT RESEARCH**
 
-1. **Urzay-Gómez, S. (2024a). "PIGS in Crisis: Euro Preference, Age, and Education"**  
+1. **Correa-Lopera, G.; Medina-Rodríguez, D.; Urzay-Gómez, S. (2025). "Personal Incentives vs. Institutional Trust: Evidence from the 2009 MEP Salary Harmonisation"**
+   *Mimeo*.
+   **Abstract:** The salaries of politicians have been recognized as a key incentive influencing both the selection and behavior of political leaders. However, the impact of politicians' salaries on voters' behavior remains understudied. This paper provides a theoretical and empirical analysis of the relationship between politicians' salaries and voters' trust in institutions. Our theoretical model posits that politicians have incentives to approve salary increases, which in turn reduce institutional trust among citizens. To empirically validate these predictions, we investigate the pay harmonization of Member of the European Parliament (MEP) salaries in 2009. Our findings reveal a significant decrease in institutional trust after the harmonization, aligning  with the theoretical model. This study highlights the interplay between political incentives and public trust, contributing to the broader understanding of institutional reforms and their societal impact.
+
+2. **Urzay-Gómez, S. (2024a). "PIGS in Crisis: Euro Preference, Age, and Education"**  
    *Mimeo UdG*.
    **Abstract:** This study analyses how the financial crisis has affected the preference for the euro in the PIGS countries. Using biannual Eurobarometer survey data from 1999 to 2019 and a two-level random intercept logistic model, the results show that during the crisis, support for the euro declined throughout the area. In particular, on the one hand those who are less educated showed a significant decreasing preference towards the euro, whereas on the other hand younger cohorts exhibit a stronger preference for the euro, contrasting with older generations.
 
-2. **Urzay-Gómez, S. (2024b). "Wages at the Edge: Analysing EU 2004 Enlargement in Germany's Border"**  
+3. **Urzay-Gómez, S. (2024b). "Wages at the Edge: Analysing EU 2004 Enlargement in Germany's Border"**  
    *Mimeo UdG*.  
    **Abstract:** This study examines how the 2004 enlargement of the European Union has affected salaries in German border regions, using individual-level data from the Socio-Economic Panel (SOEP). Applying a Difference-in-Differences approach, we examine the financial effects on citizens residing close to Poland and the Czech Republic. According to our research, salaries have decreased after expansion, underscoring the complex difficulties associated with economic integration. Additionally, the analysis revealed a more pronounced adverse effect in the districts of former East Germany. This study contributes a fresh viewpoint to the body of literature on EU enlargement by concentrating on detailed NUTS-3 level data and providing insights into the regionalised economic impacts of border expansion inside the Union.

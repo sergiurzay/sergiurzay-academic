@@ -7,7 +7,7 @@ type: "widget_page"
 **PUBLICATIONS**
 
 1. **Maurerer, I.; Puy, M.; Urzay-Gómez, S. (2025). "Explaining Preferences for EU Integration: Theory and Empirical Evidence"**  
-   *Forthcoming in European Economic Review**.
+   *Forthcoming in European Economic Review*.
    **Abstract:** We present a theoretical framework that explains how European citizens form their preferences on EU integration, which is a crucial aspect to understand the public support for the EU advancement. Building on the theories of nation formation, we consider three distinct ideological cost functions measuring the impact of EU legislation on national politics. These cost functions are categorized by degrees of sophistication, ranging from low to high. Low sophistication assumes that the EU defines an ideological direction (left or right) for member states. High sophistication assumes that EU legislation is combined with national legislation and directly impacts national policies. Individual-level survey data from EU member states are analyzed to test which degree of sophistication best predicts integration preferences. The empirical results show that European citizens tend to be highly sophisticated, implying that the advancement of EU integration is supported by citizens who believe the EU legislation amends their national policy; by contrast, Euroscepticism emerges among citizens who believe that the EU interferes with national policy.
 
 2. **Urzay-Gómez, S. (2024). "Wage patterns in West Berlin: A Synthetic Control approach after the fall of the Wall"**  

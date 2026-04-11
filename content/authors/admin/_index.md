@@ -9,7 +9,7 @@ last_name: Urzay-Gómez
 # Is this the primary user of the site?
 superuser: true
 
-Highlight the author in author lists?
+# Highlight the author in author lists?
 highlight_name: true
 
 # Role/position/tagline

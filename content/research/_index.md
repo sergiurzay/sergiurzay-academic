@@ -1,35 +1,38 @@
 ---
 title: "Research"
 date: 2023-11-06
-type: "widget_page"
+type: page
 ---
 
-**PUBLICATIONS**
+## Publications
 
-1. **Maurerer, I.; Puy, M.; Urzay-Gómez, S. (2025). "Explaining Preferences for EU Integration: Theory and Empirical Evidence"**  
-   *European Economic Review (2025). Available at: https://doi.org/10.1016/j.euroecorev.2025.105038*.
-   **Abstract:** We present a theoretical framework that explains how European citizens form their preferences on EU integration, which is a crucial aspect to understand the public support for the EU advancement. Building on the theories of nation formation, we consider three distinct ideological cost functions measuring the impact of EU legislation on national politics. These cost functions are categorized by degrees of sophistication, ranging from low to high. Low sophistication assumes that the EU defines an ideological direction (left or right) for member states. High sophistication assumes that EU legislation is combined with national legislation and directly impacts national policies. Individual-level survey data from EU member states are analyzed to test which degree of sophistication best predicts integration preferences. The empirical results show that European citizens tend to be highly sophisticated, implying that the advancement of EU integration is supported by citizens who believe the EU legislation amends their national policy; by contrast, Euroscepticism emerges among citizens who believe that the EU interferes with national policy.
+**Mauerer, I.; Puy, M.; Urzay-Gómez, S. (2025). "Explaining Preferences for EU Integration: Theory and Empirical Evidence."**
+*European Economic Review*, vol. 176, 105038. [[Journal]](https://doi.org/10.1016/j.euroecorev.2025.105038)
 
-2. **Urzay-Gómez, S. (2024). "Wage patterns in West Berlin: A Synthetic Control approach after the fall of the Wall"**  
-   *Applied Economics Letters (2024). Available at: https://doi.org/10.1080/13504851.2024.2386145*.  
-   **Abstract:** We investigate the impact of the Berlin Wall's fall on West Berliners' salaries using the Synthetic Control Method and regional-level data (NUTS-2) from the German Socio-Economic Panel (SOEP). Our study shows that the collapse of the Berlin Wall led to a sudden stagnation in salaries for West Berliners, compared to a scenario where the Wall had remained intact.
+> We present a theoretical framework that explains how European citizens form their preferences on EU integration. Building on theories of nation formation, we consider three ideological cost functions measuring the impact of EU legislation on national politics. Individual-level survey data from EU member states show that European citizens tend to be highly sophisticated: support for integration is driven by citizens who believe EU legislation amends their national policy, while Euroscepticism emerges among those who see it as interference.
 
-**WORKING PAPERS**
+---
 
-1. **Silva, J.I.; Okabe, T.; Urzay-Gómez, S. (2025). "Labor share and market power in European firms"**
-   *Submitted*. *Available at SSRN: https://ssrn.com/abstract=5120572*.
-   **Abstract:** This study examines the relationship between firms’ market power, captured by product markups and labor markdowns, and the labor share within European Union firms. Using firm-level data from the CompNet database, we develop a micro-econometric framework linking the labor share to firms’ market power. Empirical results show that labor markdowns reduce the labor share, while product markups have a hump-shaped impact on it. This occurs because firms with high pricing power tend to exercise increasing monopsony power over their workers, thereby reducing labor costs. The analysis also reveals significant cross-country heterogeneity in the link between markups, markdowns, and labor share.
+**Urzay-Gómez, S. (2024). "Wage Patterns in West Berlin: A Synthetic Control Approach after the Fall of the Wall."**
+*Applied Economics Letters* (2024). [[Journal]](https://doi.org/10.1080/13504851.2024.2386145)
 
-**CURRENT RESEARCH**
+> Using the Synthetic Control Method and regional-level data (NUTS-2) from the German Socio-Economic Panel (SOEP), this paper shows that the collapse of the Berlin Wall led to a sudden stagnation in salaries for West Berliners, compared to a counterfactual scenario where the Wall had remained intact.
 
-1. **Correa-Lopera, G.; Medina-Rodríguez, D.; Urzay-Gómez, S. (2025). "Personal Incentives vs. Institutional Trust: Evidence from the 2009 MEP Salary Harmonisation"**
-   *Mimeo*.
-   **Abstract:** The salaries of politicians have been recognized as a key incentive influencing both the selection and behavior of political leaders. However, the impact of politicians' salaries on voters' behavior remains understudied. This paper provides a theoretical and empirical analysis of the relationship between politicians' salaries and voters' trust in institutions. Our theoretical model posits that politicians have incentives to approve salary increases, which in turn reduce institutional trust among citizens. To empirically validate these predictions, we investigate the pay harmonization of Member of the European Parliament (MEP) salaries in 2009. Our findings reveal a significant decrease in institutional trust after the harmonization, aligning  with the theoretical model. This study highlights the interplay between political incentives and public trust, contributing to the broader understanding of institutional reforms and their societal impact.
+---
 
-2. **Urzay-Gómez, S. (2024a). "PIGS in Crisis: Euro Preference, Age, and Education"**  
-   *Mimeo UdG*.
-   **Abstract:** This study analyses how the financial crisis has affected the preference for the euro in the PIGS countries. Using biannual Eurobarometer survey data from 1999 to 2019 and a two-level random intercept logistic model, the results show that during the crisis, support for the euro declined throughout the area. In particular, on the one hand those who are less educated showed a significant decreasing preference towards the euro, whereas on the other hand younger cohorts exhibit a stronger preference for the euro, contrasting with older generations.
+## Working Papers
 
-3. **Urzay-Gómez, S. (2024b). "Wages at the Edge: Analysing EU 2004 Enlargement in Germany's Border"**  
-   *Mimeo UdG*.  
-   **Abstract:** This study examines how the 2004 enlargement of the European Union has affected salaries in German border regions, using individual-level data from the Socio-Economic Panel (SOEP). Applying a Difference-in-Differences approach, we examine the financial effects on citizens residing close to Poland and the Czech Republic. According to our research, salaries have decreased after expansion, underscoring the complex difficulties associated with economic integration. Additionally, the analysis revealed a more pronounced adverse effect in the districts of former East Germany. This study contributes a fresh viewpoint to the body of literature on EU enlargement by concentrating on detailed NUTS-3 level data and providing insights into the regionalised economic impacts of border expansion inside the Union.
+**Urzay-Gómez, S.; Correa-Lopera, G.; Medina-Rodríguez, D. (2025). "Personal Incentives vs. Institutional Trust: Evidence from the 2009 MEP Pay Harmonisation."**
+*Submitted.* [[SSRN]](https://ssrn.com/abstract=5378280)
+
+> This paper provides a theoretical and empirical analysis of the relationship between politicians' salaries and voters' trust in institutions. Investigating the 2009 pay harmonisation of MEP salaries, we find a significant decrease in institutional trust following the reform, consistent with a model in which politicians have incentives to approve salary increases that erode public trust.
+
+---
+
+## Work in Progress
+
+**Urzay-Gómez, S.; Verd-Llabrés, G. (2026). "The Persistent Frontier: The Political Economy of Childcare Provision in East and West Berlin, 1992–2019."**
+
+**Urzay-Gómez, S. (2026). "The Political Footprint of EU Transfers: Perception, Identity, and Integration Preferences."**
+
+**Urzay-Gómez, S. (2026). "Persistent Welfare Dependence and Disengagement from Mainstream Politics: Evidence from Hartz IV in Germany."**

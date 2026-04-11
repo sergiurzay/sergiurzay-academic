@@ -9,8 +9,11 @@ last_name: Urzay-Gómez
 # Is this the primary user of the site?
 superuser: true
 
+Highlight the author in author lists?
+highlight_name: true
+
 # Role/position/tagline
-role: PhD in Economics
+role: Lecturer in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +21,7 @@ organizations:
     url: https://www.uic.es/en/teacher/sourzay
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Political Economy, Applied Microeconomics, European Integration, and Regional Studies.
+bio: Researcher in political economy and applied microeconomics, with a focus on European integration and individual preferences.
 
 # Interests to show in About widget
 interests:
@@ -26,61 +29,22 @@ interests:
   - Applied Microeconomics
   - European Union
   - Regional Studies
+  - Social Policy
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Economics
       institution: Universitat de Girona
-      year: Jul 2024
+      year: 2024
     - course: MSc in Political Analysis
       institution: Universitat Oberta de Catalunya
-      year: Feb 2018
+      year: 2018
     - course: BSc in Economics
       institution: Universitat de Girona
-      year: Jun 2016
+      year: 2016
 
-# Skills
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-
-# Social/Academic Networking
+# Social/Academic Networking icons
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
@@ -88,28 +52,38 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:sourzay@uic.es"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/sergiurzay
-    label: Follow me on Twitter
+    label: Email me
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://www.uic.es/en/teacher/sourzay
-  - icon: github
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=NvvNN6UAAAAJ&hl=ca
+    label: Google Scholar
+    display:
+      header: true
+  - icon: ordic
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-4747-0355
+    label: ORCID
+    display:
+      header: true
+  - icon: x-twitter
     icon_pack: fab
-    link: https://github.com/sergiurzay
+    link: https://twitter.com/sergiurzay
+    label: Follow on X
+    display:
+      header: false
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/CV_Urzay.pdf
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+    label: Download CV
+    display:
+      header: false
 ---
 
-Welcome! I'm Sergi Urzay-Gómez, a Lecturer at the Faculty of Economic and Social Sciences at the Universitat Internacional de Catalunya. I earned my PhD in Economics from the Universitat de Girona in 2024, and my research focuses on Political Economy and Applied Economics, with a special interest in uncovering the profound effects of European integration on individual preferences. In addition to my role here, I also teach at the Universitat Oberta de Catalunya and serve as a Teaching Assistant at the Institut Barcelona d'Estudis Internacionals (IBEI-UPF).
+I am a Lecturer in Economics at the Universitat Internacional de CAtalunya and a researcher working at the intersection of political economy, applied microeconomics, and European integration. My work examines how EU institutions and policies shape individual preferences and economic outcomes. My research draws on different microeconometric methods applied to survey and adminsitrative datasets such as the Eurobarometer and the German Socio-Economic Panel (SOEP). I am currently developing projects on social policies and institutional trust. 
+I also teach at the Universitat Oberta de Catalunya, at the Master in Economic Analysis and the Master in International Relations. I work in Catalan, Spanish, English, German, and French.
 {style="text-align: justify;"}

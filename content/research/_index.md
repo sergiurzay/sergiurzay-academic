@@ -14,7 +14,7 @@ type: page
 ---
 
 **Urzay-Gómez, S. (2024). "Wage Patterns in West Berlin: A Synthetic Control Approach after the Fall of the Wall."**
-*Applied Economics Letters* (2024). [[Journal]](https://doi.org/10.1080/13504851.2024.2386145)
+*Applied Economics Letters* vol. 33(4), 626–629. [[Journal]](https://doi.org/10.1080/13504851.2024.2386145)
 
 > Using the Synthetic Control Method and regional-level data (NUTS-2) from the German Socio-Economic Panel (SOEP), this paper shows that the collapse of the Berlin Wall led to a sudden stagnation in salaries for West Berliners, compared to a counterfactual scenario where the Wall had remained intact.
 

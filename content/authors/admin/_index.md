@@ -85,5 +85,5 @@ social:
 ---
 
 I am a Lecturer in Economics at the Universitat Internacional de Catalunya and a researcher working at the intersection of political economy, applied microeconomics, and European integration. My work examines how EU institutions and policies shape individual preferences and economic outcomes. My research draws on different microeconometric methods applied to survey and administrative datasets such as the Eurobarometer and the German Socio-Economic Panel (SOEP). I am currently developing projects on social policies and institutional trust. 
-I also teach at the Universitat Oberta de Catalunya, at the Master in Economic Analysis and the Master in International Relations. I work in Catalan, Spanish, English, German, and French.
+I also teach at the Universitat Oberta de Catalunya, at the Master's in Economic Analysis and the Master's in International Relations. My working languages are Catalan, Spanish, English, German, and French.
 {style="text-align: justify;"}

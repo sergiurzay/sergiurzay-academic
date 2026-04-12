@@ -30,24 +30,11 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Use this form, or the information below, to contact me.
+      text: ''
       email: sourzay@uic.es
-      appointment_url: 'mailto:sourzay@uic.es?subject=Meeting%20request'
       office_hours:
         - 'By appointment'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/sergiurzay'
       autolink: true
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          captcha: false
     design:
       columns: '2'
 ---

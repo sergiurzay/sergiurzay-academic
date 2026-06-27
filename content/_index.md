@@ -21,18 +21,37 @@ sections:
     design:
       columns: '1'
 
-  - block: collection
+  - block: markdown
     id: publications
     content:
       title: Selected Publications
-      subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      text: |
+        <div class="pub-item">
+          <div class="pub-meta">
+            <span class="pub-year">2025</span>
+            <span class="pub-badge pub-badge--published">Published</span>
+          </div>
+          <div class="pub-content">
+            <div class="pub-title"><a href="https://doi.org/10.1016/j.euroecorev.2025.105038" target="_blank">Explaining Preferences for EU Integration: Theory and Empirical Evidence</a></div>
+            <div class="pub-authors">Mauerer, I.; Puy, M.; Urzay-Gómez, S.</div>
+            <div class="pub-venue"><em>European Economic Review</em>, vol. 176, 105038</div>
+            <div class="pub-abstract">We present a theoretical framework that explains how European citizens form their preferences on EU integration. Building on theories of nation formation, we consider three ideological cost functions measuring the impact of EU legislation on national politics. Individual-level survey data from EU member states show that European citizens tend to be highly sophisticated: support for integration is driven by citizens who believe EU legislation amends their national policy, while Euroscepticism emerges among those who see it as interference.</div>
+          </div>
+        </div>
+
+        <div class="pub-item">
+          <div class="pub-meta">
+            <span class="pub-year">2024</span>
+            <span class="pub-badge pub-badge--published">Published</span>
+          </div>
+          <div class="pub-content">
+            <div class="pub-title"><a href="https://doi.org/10.1080/13504851.2024.2386145" target="_blank">Wage Patterns in West Berlin: A Synthetic Control Approach after the Fall of the Wall</a></div>
+            <div class="pub-authors">Urzay-Gómez, S.</div>
+            <div class="pub-venue"><em>Applied Economics Letters</em>, vol. 33(4), 626&ndash;629</div>
+            <div class="pub-abstract">Using the Synthetic Control Method and regional-level data (NUTS-2) from the German Socio-Economic Panel (SOEP), this paper shows that the collapse of the Berlin Wall led to a sudden stagnation in salaries for West Berliners, compared to a counterfactual scenario where the Wall had remained intact.</div>
+          </div>
+        </div>
     design:
-      view: citation
       columns: '1'
 
   - block: markdown

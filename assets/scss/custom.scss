@@ -27,10 +27,16 @@ section.home-section + section.home-section {
 /* Hide interests icons and replace with em-dash */
 .ul-interests.fa-ul {
   padding-left: 0 !important;
+  margin-left: 0 !important;
 }
 
 .ul-interests .fa-li {
   display: none !important;
+}
+
+.ul-interests li {
+  padding-left: 0 !important;
+  text-indent: 0 !important;
 }
 
 .ul-interests li::before {

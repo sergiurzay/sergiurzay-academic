@@ -4,7 +4,7 @@ date: 2023-11-06
 type: page
 ---
 
-My research lies at the intersection of political economy, applied microeconomics, and European integration. I study how institutions and policies shape individual behaviour and economic outcomes, with a focus on labour markets, housing, and welfare states in Germany and the European Union. My empirical work draws on microeconometric methods and datasets such as the German Socio-Economic Panel (SOEP) and administrative transaction data.
+My research lies at the intersection of political economy, applied microeconomics, and European integration. I study how institutions and policies shape individual behaviour and economic outcomes, with a focus on labour markets, housing, and welfare states in Germany and the European Union. My empirical work draws on microeconometric methods applied to survey and administrative data.
 
 <div class="pub-section-title">Publications</div>
 

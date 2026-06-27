@@ -13,7 +13,7 @@ interests:
   - Political Economy
   - Applied Microeconomics
   - European Integration
-  - Labour Markets
+  - Social Policies
   - Housing Economics
 education:
   courses:

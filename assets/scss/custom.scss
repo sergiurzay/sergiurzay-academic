@@ -45,3 +45,128 @@ section.home-section + section.home-section {
   margin-right: 6px;
   opacity: 0.6;
 }
+
+/* Publication entries */
+.pub-section-title {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #1a3a5c;
+  opacity: 0.7;
+  margin: 2.5rem 0 0.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid rgba(26, 58, 92, 0.2);
+}
+
+.pub-item {
+  display: flex;
+  gap: 1.2rem;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid rgba(26, 58, 92, 0.12);
+}
+
+.pub-meta {
+  min-width: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  padding-top: 2px;
+}
+
+.pub-year {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 12px;
+  font-weight: 600;
+  color: #1a3a5c;
+  opacity: 0.8;
+}
+
+.pub-badge {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 9.5px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 2px 6px;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+.pub-badge--published {
+  background: rgba(26, 58, 92, 0.08);
+  color: #1a3a5c;
+  border: 1px solid rgba(26, 58, 92, 0.25);
+}
+
+.pub-badge--review {
+  background: rgba(160, 100, 0, 0.08);
+  color: #7a4e00;
+  border: 1px solid rgba(160, 100, 0, 0.25);
+}
+
+.pub-badge--rr {
+  background: rgba(160, 100, 0, 0.12);
+  color: #7a4e00;
+  border: 1px solid rgba(160, 100, 0, 0.35);
+  font-weight: 600;
+}
+
+.pub-badge--working {
+  background: rgba(0,0,0,0.04);
+  color: #666;
+  border: 1px solid rgba(0,0,0,0.15);
+}
+
+.pub-content { flex: 1; }
+
+.pub-title {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 3px;
+  line-height: 1.4;
+  color: #1a1a1a;
+}
+
+.pub-title a {
+  color: #1a3a5c;
+  text-decoration: none;
+}
+
+.pub-title a:hover { text-decoration: underline; }
+
+.pub-authors {
+  font-size: 13px;
+  color: #666;
+  margin-bottom: 2px;
+}
+
+.pub-venue {
+  font-size: 13px;
+  color: #444;
+  margin-bottom: 6px;
+}
+
+.pub-abstract {
+  font-size: 13px;
+  color: #555;
+  line-height: 1.58;
+}
+
+.wip-item {
+  padding: 0.75rem 0;
+  border-bottom: 1px dotted rgba(26, 58, 92, 0.18);
+}
+
+.wip-title {
+  font-weight: 500;
+  font-size: 14.5px;
+  margin-bottom: 3px;
+  color: #2d2d2d;
+}
+
+.wip-desc {
+  font-size: 13px;
+  color: #777;
+  line-height: 1.5;
+}

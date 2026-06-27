@@ -1,0 +1,14 @@
+# Theme metadata
+name = "Academic Blue"
+
+# Is theme light or dark?
+light = true
+
+# Primary color
+primary = "#1a3a5c"
+
+# Menu
+menu_primary = "#1a3a5c"
+menu_text = "#ffffff"
+menu_text_active = "#ffffff"
+menu_title = "#ffffff"

@@ -1,13 +1,13 @@
-google_fonts = "family=Raleway:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Source+Code+Pro:wght@400;700&display=swap"
+google_fonts = "family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap"
 
 [light]
-  heading_font = "Raleway"
-  body_font = "Lora"
-  nav_font = "Raleway"
-  mono_font = "Source Code Pro"
+  heading_font = "Space Grotesk"
+  body_font = "Inter"
+  nav_font = "Space Grotesk"
+  mono_font = "JetBrains Mono"
 
 [dark]
-  heading_font = "Raleway"
-  body_font = "Lora"
-  nav_font = "Raleway"
-  mono_font = "Source Code Pro"
+  heading_font = "Space Grotesk"
+  body_font = "Inter"
+  nav_font = "Space Grotesk"
+  mono_font = "JetBrains Mono"

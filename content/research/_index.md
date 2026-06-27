@@ -4,6 +4,10 @@ date: 2023-11-06
 type: page
 ---
 
+My research lies at the intersection of political economy, applied microeconomics, and European integration. I study how institutions and policies shape individual behaviour and economic outcomes, with a focus on labour markets, housing, and welfare states in Germany and the European Union. My empirical work draws on microeconometric methods and datasets such as the German Socio-Economic Panel (SOEP) and administrative transaction data.
+
+---
+
 ## Publications
 
 **Mauerer, I.; Puy, M.; Urzay-Gómez, S. (2025). "Explaining Preferences for EU Integration: Theory and Empirical Evidence."**
@@ -23,29 +27,39 @@ type: page
 ## Working Papers
 
 **Urzay-Gómez, S.; Correa-Lopera, G.; Medina-Rodríguez, D. (2025). "Personal Incentives vs. Institutional Trust: Evidence from the 2009 MEP Pay Harmonisation."**
-*Submitted.* [[SSRN]](https://ssrn.com/abstract=5378280)
+*Under review, European Journal of Political Economy.* [[SSRN]](https://ssrn.com/abstract=5378280)
 
 > This paper provides a theoretical and empirical analysis of the relationship between politicians' salaries and voters' trust in institutions. Investigating the 2009 pay harmonisation of MEP salaries, we find a significant decrease in institutional trust following the reform, consistent with a model in which politicians have incentives to approve salary increases that erode public trust.
 
 ---
 
 **Urzay-Gómez, S. (2026). "As If It Never Were: The Long-Run Effects of the Berlin Rent Cap."**
-*Revise & Resubmit, Journal of Housing Economics.*
+*Working paper.*
 
 > This paper estimates the causal effect of the Berlin rent cap (Mietendeckel, 2020--2021) on the housing market, using a difference-in-differences design that exploits the spatial discontinuity at the Berlin city boundary. The analysis draws on administrative transaction data for the German rental market.
 
 ---
 
+**Urzay-Gómez, S.; Verd-Llabrés, G. (2026). "Cultural or Institutional? Decomposing the Persistent East-West Childcare Frontier in Berlin, 2003--2021."**
+*Working paper.*
+
+> More than three decades after reunification, childcare enrollment rates among children under three remain markedly higher in East Berlin than in West Berlin. This paper decomposes this persistent gap into cultural and institutional channels, exploiting individual-level data from the German Socio-Economic Panel (SOEP) over 2003--2021. Using a design that separately identifies the effects of East German origin and current residence in East Berlin, the results are consistent with an institutional account: the gap is driven by place of residence and correlated with differences in childcare supply, rather than by the cultural legacy of East German origin.
+
+---
+
 ## Work in Progress
 
-**Urzay-Gómez, S.; Verd-Llabrés, G. (2026). "The Persistent Frontier: The Political Economy of Childcare Provision in East and West Berlin, 1992--2019."**
+**"The Political Footprint of EU Transfers: Perception, Identity, and Integration Preferences."**
+Examines whether exposure to EU cohesion funds shapes citizens' European identity and integration preferences.
 
-**Urzay-Gómez, S. (2026). "The Political Footprint of EU Transfers: Perception, Identity, and Integration Preferences."**
+**"Persistent Welfare Dependence and Disengagement from Mainstream Politics: Evidence from Hartz IV in Germany."**
+Studies the effect of the Hartz IV reform on long-term welfare reliance and political disengagement in Germany.
 
-**Urzay-Gómez, S. (2026). "Persistent Welfare Dependence and Disengagement from Mainstream Politics: Evidence from Hartz IV in Germany."**
+**"Geography, Housing Prices, and Support for European Integration."**
+Investigates whether housing affordability in urban areas affects voters' support for European integration.
 
-**Urzay-Gómez, S. (2026). "Geography, Housing Prices, and Support for European Integration."**
+**"Labour Market Effects of Hard Borders: Evidence from the German Eastern Border after 2011."**
+Uses the 2011 opening of the German labour market to Eastern Europeans as a natural experiment to estimate border effects on wages and employment.
 
-**Urzay-Gómez, S. (2026). "Labour Market Effects of Hard Borders: Evidence from the German Eastern Border after 2011."**
-
-**Correa-Lopera, G.; Gallo, A.; Urzay-Gómez, S. (2026). "Coalition Stability and Parliamentary Contiguity."**
+**"Coalition Stability and Parliamentary Contiguity."**
+Analyses the role of ideological contiguity in the formation and stability of parliamentary coalitions.

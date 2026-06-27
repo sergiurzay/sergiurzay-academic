@@ -4,7 +4,7 @@ date: 2023-11-06
 type: page
 ---
 
-My teaching spans undergraduate and graduate levels, covering macroeconomics, microeconomics, and international political economy. I have taught at four universities in Spain since 2017.
+My teaching covers macroeconomics, microeconomics, and international political economy, at both undergraduate and graduate levels. I aim to combine theoretical foundations with applied and empirical perspectives.
 
 ---
 

@@ -14,7 +14,7 @@ type: page
 ---
 
 **Urzay-Gómez, S. (2024). "Wage Patterns in West Berlin: A Synthetic Control Approach after the Fall of the Wall."**
-*Applied Economics Letters* vol. 33(4), 626–629. [[Journal]](https://doi.org/10.1080/13504851.2024.2386145)
+*Applied Economics Letters* vol. 33(4), 626--629. [[Journal]](https://doi.org/10.1080/13504851.2024.2386145)
 
 > Using the Synthetic Control Method and regional-level data (NUTS-2) from the German Socio-Economic Panel (SOEP), this paper shows that the collapse of the Berlin Wall led to a sudden stagnation in salaries for West Berliners, compared to a counterfactual scenario where the Wall had remained intact.
 
@@ -29,10 +29,23 @@ type: page
 
 ---
 
+**Urzay-Gómez, S. (2026). "As If It Never Were: The Long-Run Effects of the Berlin Rent Cap."**
+*Revise & Resubmit, Journal of Housing Economics.*
+
+> This paper estimates the causal effect of the Berlin rent cap (Mietendeckel, 2020--2021) on the housing market, using a difference-in-differences design that exploits the spatial discontinuity at the Berlin city boundary. The analysis draws on administrative transaction data for the German rental market.
+
+---
+
 ## Work in Progress
 
-**Urzay-Gómez, S.; Verd-Llabrés, G. (2026). "The Persistent Frontier: The Political Economy of Childcare Provision in East and West Berlin, 1992–2019."**
+**Urzay-Gómez, S.; Verd-Llabrés, G. (2026). "The Persistent Frontier: The Political Economy of Childcare Provision in East and West Berlin, 1992--2019."**
 
 **Urzay-Gómez, S. (2026). "The Political Footprint of EU Transfers: Perception, Identity, and Integration Preferences."**
 
 **Urzay-Gómez, S. (2026). "Persistent Welfare Dependence and Disengagement from Mainstream Politics: Evidence from Hartz IV in Germany."**
+
+**Urzay-Gómez, S. (2026). "Geography, Housing Prices, and Support for European Integration."**
+
+**Urzay-Gómez, S. (2026). "Labour Market Effects of Hard Borders: Evidence from the German Eastern Border after 2011."**
+
+**Correa-Lopera, G.; Gallo, A.; Urzay-Gómez, S. (2026). "Coalition Stability and Parliamentary Contiguity."**

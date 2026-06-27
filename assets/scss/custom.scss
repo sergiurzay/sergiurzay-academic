@@ -170,3 +170,21 @@ section.home-section + section.home-section {
   color: #777;
   line-height: 1.5;
 }
+
+/* Force correct fonts (bypasses Wowchemy template issue) */
+body, p, li, td, .article-style, .pub-abstract, .pub-authors, .pub-venue, .wip-desc {
+  font-family: "Inter", system-ui, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.section-heading h1,
+.portrait-title h2,
+.portrait-title h3,
+nav, .navbar, .nav-link,
+.section-subheading {
+  font-family: "Space Grotesk", system-ui, sans-serif !important;
+}
+
+.pub-title, .wip-title {
+  font-family: "Space Grotesk", system-ui, sans-serif !important;
+}

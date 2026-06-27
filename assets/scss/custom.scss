@@ -23,3 +23,20 @@ section.home-section {
 section.home-section + section.home-section {
   border-top: 1px solid rgba(26, 58, 92, 0.25);
 }
+
+/* Hide interests icons */
+.interests ul li i {
+  display: none;
+}
+
+.interests ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.interests ul li::before {
+  content: "—";
+  color: #1a3a5c;
+  margin-right: 8px;
+  opacity: 0.6;
+}

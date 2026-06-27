@@ -15,7 +15,7 @@ sections:
     content:
       title: Research
       text: |
-        My research lies at the intersection of political economy, applied microeconomics, and European integration. Current projects examine housing markets in Germany, welfare state reform and political behaviour, and the determinants of support for European integration. I use microeconometric methods and datasets including the German Socio-Economic Panel (SOEP) and administrative transaction data.
+        My research lies at the intersection of political economy, applied microeconomics, and European integration. Current projects examine housing markets in Germany, welfare state reform and political behaviour, and the determinants of support for European integration. I use microeconometric methods applied to survey and administrative data.
 
         [View all research →](/research/)
     design:

@@ -24,17 +24,16 @@ section.home-section + section.home-section {
   border-top: 1px solid rgba(26, 58, 92, 0.25);
 }
 
-/* Hide interests icons */
-.interests ul li i {
-  display: none;
+/* Hide interests icons and replace with em-dash */
+.ul-interests.fa-ul {
+  padding-left: 0 !important;
 }
 
-.interests ul {
-  list-style: none;
-  padding-left: 0;
+.ul-interests .fa-li {
+  display: none !important;
 }
 
-.interests ul li::before {
+.ul-interests li::before {
   content: "—";
   color: #1a3a5c;
   margin-right: 8px;

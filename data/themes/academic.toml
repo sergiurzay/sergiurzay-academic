@@ -1,5 +1,17 @@
 [light]
   primary = "#1a3a5c"
+  menu_primary = "#1a3a5c"
+  menu_text = "#ffffff"
+  menu_text_active = "#ffffff"
+  menu_title = "#ffffff"
+  link = "#1a3a5c"
+  link_hover = "#2a5a8c"
 
 [dark]
-  primary = "#1a3a5c"
+  primary = "#4a7fb5"
+  menu_primary = "#1a3a5c"
+  menu_text = "#ffffff"
+  menu_text_active = "#ffffff"
+  menu_title = "#ffffff"
+  link = "#4a7fb5"
+  link_hover = "#6a9fd5"
